@@ -1,0 +1,121 @@
+body{
+	background-image: url("banner2.jpg");
+	background-repeat: no-repeat;
+
+	background-size: cover;
+}
+
+#text{
+	color: white;
+	font-family: 'Permanent Marker', cursive;
+
+}
+
+#Email{
+	font-family: "Permanent Marker", cursive;
+    border: none;
+    background-color: inherit;
+    padding: 14px 28px;
+    font-size: 35px;
+    cursor: pointer;
+    display: inline-block;
+    color:white;
+    position: absolute;
+    top: 60%;
+    left: 10.5%;
+
+
+
+	
+
+}
+
+#Email:hover{
+	color:grey;
+}
+
+#Img{
+	padding: 14px 28px;
+	display: inline-block;
+	position: absolute;
+	top: 40%;
+	left: 10%;
+	
+
+
+	
+
+	
+}
+
+#Img:hover{
+	background: rgba(186, 180, 180, 0.3);
+}
+
+
+
+#call{
+	padding: 14px 28px;
+	display: inline-block;
+	position: absolute;
+	top:40%;
+	right: 50%;
+
+
+
+	
+	
+}
+
+#call:hover{
+	background:rgba(186, 180, 180, 0.3)
+}
+
+#address{
+	padding: 14px 28px;
+	display: inline-block;
+	position: absolute;
+	top:40%;
+	right:20%;	
+}
+
+#address:hover{
+	background:rgba(186, 180, 180, 0.3)
+
+}
+
+#Calll{
+	font-family: "Permanent Marker", cursive;
+    border: none;
+    background-color: inherit;
+    padding: 14px 28px;
+    font-size: 35px;
+    cursor: pointer;
+    display: inline-block;
+    color:white;
+    position: absolute;
+    top: 60%;
+    left: 39%;
+}
+
+#Calll:hover{
+	color: grey;
+}
+
+#Adddress{
+	font-family: "Permanent Marker", cursive;
+    border: none;
+    background-color: inherit;
+    padding: 14px 28px;
+    font-size: 35px;
+    cursor: pointer;
+    display: inline-block;
+    color:white;
+    position: absolute;
+    top: 60%;
+    left: 67%;
+}
+
+#Adddress:hover{
+	color: grey;
+}

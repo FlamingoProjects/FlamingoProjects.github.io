@@ -1,0 +1,66 @@
+body{
+background-image: url("banner2.jpg");
+background-repeat: no-repeat;
+background-size: cover; 
+}
+
+
+#Header{
+	font-family: 'Permanent Marker', cursive;
+	color: white;
+	position: absolute;
+	font-size: 25px;
+	top:40%;
+	width: 100%;
+	text-align: center;
+}
+
+#button{
+	position: absolute;
+	border: none;
+	background-color: transparent;
+	color: white;
+	font-size: 15px;
+
+	display: inline-block;
+	top:60%;
+	left: 43%;
+	
+	text-align: center;
+	
+
+}
+
+#button2{
+	position: absolute;
+	border: none;
+	background-color: transparent;
+	color: white;
+	font-size: 15px;
+
+	display: inline-block;
+	top:60%;
+	left: 51%;
+	
+	text-align: center;
+	
+
+}
+
+#button2:hover{
+	color: grey;
+}
+
+
+
+#button:hover{
+	color:gray;
+}
+
+#little{
+	font-size: 8px;
+	position: fixed;
+	bottom:0;
+	color:white;
+}
+

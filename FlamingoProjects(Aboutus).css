@@ -1,0 +1,77 @@
+body{
+	background-image: url("banner2.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#aboutt{
+	color: white;
+	font-family: "Permanent Marker", cursive;
+}
+
+#img{
+	position: absolute;
+	top:20%;
+	left:25%;
+}
+
+#p{
+	font-family: "Incosolata", monospace;
+	color: white;
+	font-size: 20px;
+	position: absolute;
+	top: 50%;
+	left: 28%;
+	
+
+}
+
+#p:hover{
+	color: grey;
+}
+
+#p2{
+
+	font-family: "Incosolata", monospace;
+	color: white;
+	font-size: 20px;
+	position: absolute;
+	top: 50%;
+	left: 54%;
+
+}
+
+#p2:hover{
+	color: grey;
+}
+
+#para{
+	font-family: "Incosolata", monospace;
+	font-size: 15px;
+	padding: 0px 5px;
+	display: inline-block;
+	color: white;
+	background: rgba(186, 180, 180, 0.3);
+	position: absolute;
+	top: 63%;
+	left: 24%;
+
+}
+
+#para2{
+	font-family: "Incosolata", monospace;
+	font-size: 15px;
+	padding: 0px 5px;
+	display: inline-block;
+	color: white;
+	background: rgba(186, 180, 180, 0.3);
+	position: absolute;
+	top: 63%;
+	left: 50%;
+}
+
+#img2{
+	position: absolute;
+	top: 20%;
+	left: 50%;
+}
