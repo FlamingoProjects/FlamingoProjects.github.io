@@ -1,0 +1,119 @@
+body{
+
+	background-color: #00aaff
+
+}
+
+
+#Header{
+
+	color: white;
+	font-family: 'Inconsolata';
+	font-size: 35px;
+	position: absolute;
+	left: 39%;
+	top: 33%;
+
+	/* border-width: 5px;
+	border
+	border-style: dashed;
+	border-color: white; */
+	
+
+
+
+}
+
+#Para{
+
+	color: white;
+	font-family: 'Inconsolata', bold;
+	position: absolute;
+	top: 51.5%;
+	left: 5%;
+	
+
+
+
+
+
+}
+
+
+#SecondHeader{
+
+	color: white;
+	font-family: 'Inconsolata';
+	font-size: 30px;
+	position: absolute;
+	top: 110%;
+	left: 39.5%;
+
+}
+
+#SecondPara{
+
+	color: white;
+	font-family: 'Inconsolata';
+	font-size: 30px;
+	position: absolute;
+	top: 120%;
+
+}
+
+
+.Menu{
+
+	color: white;
+	filter: alpha(opacity=50);
+	list-style: none;
+	display: inline-block;
+	padding: 20px 0 20px 0;
+	text-align: center;
+	position: absolute;
+	width: 1400;
+	top: -15;
+
+
+
+
+
+
+
+
+}
+
+
+
+.Menu > li{
+
+	display: inline-block;
+	padding-right: 50px;
+
+
+
+
+
+
+
+
+}
+.Menu > li > a{
+
+	color: white;
+	font-family: 'Inconsolata';
+	font-size: 30px;
+	text-decoration: none;
+
+
+
+
+
+}
+
+.Menu > li > a:hover{
+
+	color: grey;
+
+
+}
